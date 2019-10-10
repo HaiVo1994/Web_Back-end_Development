@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1dae7eb1-fe54-4a9c-b3a9-4437e594cfe1" name="Default" comment="" />
+    <list default="true" id="8af7c12a-656e-4198-af57-a5543032fe44" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,7 +11,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="SuDungToanTu.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SuDungToanTu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,7 +33,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/KhaiBaoVaSuDungBien.java" />
+        <option value="$PROJECT_DIR$/src/SuDungToanTu.java" />
       </list>
     </option>
   </component>
@@ -38,9 +48,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
-    <option name="y" value="25" />
-    <option name="width" value="1853" />
-    <option name="height" value="1055" />
+    <option name="y" value="27" />
+    <option name="width" value="1843" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -48,24 +58,19 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="KhaiBaoVaSuDungBien" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Th2KhaiBaoVaSuDungBien" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KhaiBaoVaSuDungBien" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Th2KhaiBaoVaSuDungBien" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SuDungToanTu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Th3SuDungToanTu" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -87,9 +92,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="KhaiBaoVaSuDungBien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KhaiBaoVaSuDungBien" />
-      <module name="Th2KhaiBaoVaSuDungBien" />
+    <configuration name="SuDungToanTu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SuDungToanTu" />
+      <module name="SuDungToanTu" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -135,7 +140,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.KhaiBaoVaSuDungBien" />
+        <item itemvalue="Application.SuDungToanTu" />
       </list>
     </recent_temporary>
   </component>
@@ -144,31 +149,31 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1dae7eb1-fe54-4a9c-b3a9-4437e594cfe1" name="Default" comment="" />
-      <created>1570680382051</created>
+      <changelist id="8af7c12a-656e-4198-af57-a5543032fe44" name="Default" comment="" />
+      <created>1570681270340</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570680382051</updated>
-      <workItem from="1570680383416" duration="772000" />
+      <updated>1570681270340</updated>
+      <workItem from="1570681271662" duration="135000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="772000" />
+    <option name="totallyTimeSpent" value="135000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32946146" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
@@ -196,10 +201,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/KhaiBaoVaSuDungBien.java">
+    <entry file="file://$PROJECT_DIR$/src/SuDungToanTu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        <state relative-caret-position="330">
+          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
         </state>
       </provider>
     </entry>
