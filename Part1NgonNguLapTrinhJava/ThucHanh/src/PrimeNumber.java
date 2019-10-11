@@ -6,6 +6,16 @@ public class PrimeNumber {
                 System.out.print(i + ", ");
             }
         }
+        System.out.println("\n20 begin prime number:");
+        int count = 0;
+        int number = 0;
+        while (count<=20){
+            if (checkPrimeNumber(number)){
+                System.out.print(number + ", ");
+                count++;
+            }
+            number++;
+        }
     }
     public static boolean checkPrimeNumber(int number){
         if (number<2)
