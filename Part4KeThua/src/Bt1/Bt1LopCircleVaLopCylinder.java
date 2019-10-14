@@ -7,5 +7,10 @@ public class Bt1LopCircleVaLopCylinder {
 
         System.out.println("This circle " + circle.toString() + " area = " + circle.getArea());
         System.out.println("This cylinder " + cylinder.toString() + " volume = " + cylinder.getVolume());
+
+        circle.setRadius(15);
+        cylinder.setHeight(55);
+        System.out.println("This circle " + circle.toString() + " area = " + circle.getArea());
+        System.out.println("This cylinder " + cylinder.toString() + " volume = " + cylinder.getVolume());
     }
 }
