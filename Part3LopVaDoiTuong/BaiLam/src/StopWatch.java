@@ -39,8 +39,10 @@ public class StopWatch {
 
         StopWatch time = new StopWatch();
         time.start();
-        int count = 0;
+
         int transfer, minIndex;
+        //Cap phat bo nho ngoai vong for nhu the nay se giam viec ton tai nguyen
+        //so voi viec de trong vong for
         for (int i = 0; i < length - 1; i++) {
             minIndex = i;
             for (int j = i + 1; j < length; j++) {
@@ -54,7 +56,7 @@ public class StopWatch {
             }
         }
         time.stop();
-        System.out.println("\nMang sau khi sap xep: " + count*4);
+        System.out.println("\nMang sau khi sap xep: ");
         for (int i=0; i<arr.length; i++){
             System.out.print(arr[i] + "  ");
         }
