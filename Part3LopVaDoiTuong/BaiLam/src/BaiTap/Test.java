@@ -2,12 +2,12 @@ package BaiTap;
 
 public class Test {
     public static void main(String[] args) {
-        Circle circle = new Circle(12);
-        Rectangle rectangle = new Rectangle(15, 11);
-        Square square = new Square(10);
-
-        Shape shape = new Shape(square, rectangle, circle);
-
+//        Circle circle = new Circle(12);
+//        Rectangle rectangle = new Rectangle(15, 11);
+//        Square square = new Square(10);
+//
+//        Shape shape = new Shape(square, rectangle, circle);
+        Shape shape = new Shape(new Square(10), new Rectangle(15, 11), new Circle(12));
         System.out.println(shape.toString());
         shape.draw();
 

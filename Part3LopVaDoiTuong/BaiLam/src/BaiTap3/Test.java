@@ -22,6 +22,6 @@ public class Test {
                     break;
             }
             System.out.println(button.toString());
-        }while (action!=9);
+        }while (action!=0);
     }
 }

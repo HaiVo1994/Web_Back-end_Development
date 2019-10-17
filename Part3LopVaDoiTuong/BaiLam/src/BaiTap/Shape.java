@@ -15,6 +15,18 @@ public class Shape {
         this.circle = circle;
     }
 
+    public Square getSquare() {
+        return square;
+    }
+
+    public Rectangle getRectangle() {
+        return rectangle;
+    }
+
+    public Circle getCircle() {
+        return circle;
+    }
+
     public void setSquare(double side) {
         this.square.setSide(side);
     }
