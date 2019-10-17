@@ -49,4 +49,8 @@ public class Human {
         String isMale = this.isMale()? " is male ": "is female ";
         return this.name + " weight " + this.weight + isMale;
     }
+
+    public String say(String messenger){
+        return this.name + " say: " + messenger;
+    }
 }
