@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Part9TongQuanVeWeb:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Part9TongQuanVeWeb_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Part9TongQuanVeWeb/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Part9TongQuanVeWeb" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
